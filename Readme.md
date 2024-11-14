@@ -8,4 +8,3 @@ Here, I showcase my projects in Python, Power BI, Power Apps, and SQL. Feel free
 - [Data Cleaning Test](Python/Test) - A simple project to test how git works with ipynb files.
 
 [![Linkedin Badge](https://img.shields.io/badge/-itravisany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itravisany)](https://www.linkedin.com/in/itravisany) [![Gmail Badge](https://img.shields.io/badge/-itravisany@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itravisany@gmail.com)](mailto:itravisany@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>

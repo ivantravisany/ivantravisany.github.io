@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Data Cleaning Test
 
 This test project analyzes and cleans data of an external csv file
 
