@@ -3,11 +3,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,unity,github,obsidian)](https://skillicons.dev)
 
-I’m a bilingual Data Analyst from Canada 🇨🇦 with some hands-on experience in healthcare and agriculture settings. My main toolkit includes analyzing, transforming, and bringing data to life with dynamic Power BI visuals 📊. I also love crafting apps from scratch with Power Apps 📱 to solve real-world problems and streamline workflows with Power Automate-all integrated into Dataverse, so it’s a one-stop shop for end-to-end solutions ⚡️.
+I’m a bilingual Data Analyst from Canada 🇨🇦 with some hands-on experience in healthcare and agriculture settings. My main toolkit includes analyzing, transforming, and bringing data to life with dynamic visuals 📊 using Power BI. I also enjoy crafting apps from scratch with Power Apps 📱 to solve real-world problems and streamline workflows with Power Automate-all integrated into Dataverse, so it’s a one-stop shop for end-to-end solutions ⚡️
 
-I am also skilled in Python 🐍, though I haven’t had many chances to use it on the job. And, on the side, I’m diving into C# and Unity 🎮 to create my own games. Learning lots, mastering none, right? 😂
+I am also skilled in Python 🐍, though I haven’t had many chances to use it on the job. And, on the side, I’m diving into C# and Unity 🎮 to create my own games... Learning lots, mastering none, right? 😂
 
-Anyhow, here I will be showcasing my projects in Python, Power BI, Power Apps, and SQL. I am cleaning and uploading them little by little, so it's a work in progress 💪🏼. Feel free to explore them below:
+Anyhow, here I will be showcasing all my projects, little by little, so it's a work in progress 💪🏼. Feel free to explore what I got so far below:
 
 ## ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Python Projects](Python/)
 - [PUBG Match Analysis](Python/PUBG%20Match%20Analysis/) - Small project where I applied some of my knowledge regarding data science pipeline on a big dataset of PUBG matches.
