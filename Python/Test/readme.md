@@ -8,3 +8,5 @@ This test project analyzes and cleans data of an external csv file
 
 ## How to Use
 - I'm not expecting anyone to use this, since it's more like a hands-on experience with git, but I guess you could simply clone this repository and run the ipynb file
+
+[Go Back to Main GitHub Page](https://github.com/ivantravisany)
