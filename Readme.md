@@ -9,8 +9,4 @@ Here, I showcase my projects in Python, Power BI, Power Apps, and SQL. Feel free
 - [Data Cleaning Test](Python/Test) - A simple project to test how git works with ipynb files. [View the Jupyter Notebook for this project](Python/Test/first.ipynb)
 
 ## ⚡ Skills: 
-- Python
-- Power BI
-- Power Apps
-- SQL
-- Power Automate
+[![My Skills](https://skillicons.dev/icons?i=py,cs,vscode,unity,github,obsidian)](https://skillicons.dev)
