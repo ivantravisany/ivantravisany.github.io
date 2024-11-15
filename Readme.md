@@ -8,6 +8,7 @@
 Here, I showcase my projects in Python, Power BI, Power Apps, and SQL. Feel free to explore my work below.
 
 ## ⭐️ [Python Projects](Python)
+- [PUBG Match Analysis](Python/PUBG%20Match%20Analysis/) - Small project where I applied some of my knowledge regarding data science pipeline on a big dataset of PUBG matches.
 - [Code Signal Questions](Python/Code%20Signal/) - Folder with solved wuestions from [Code Signal](https://app.codesignal.com).
 - [Data Cleaning Test](Python/Test) - A simple project to test how git works with ipynb files. [View the Jupyter Notebook for this project](Python/Test/first.ipynb).
 
