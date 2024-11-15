@@ -10,6 +10,7 @@ I am also skilled in Python 🐍, though I haven’t had many chances to use it 
 Anyhow, here I will be showcasing all my projects, little by little, so it's a work in progress 💪🏼. Feel free to explore what I got so far below:
 
 ## ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Python Projects](Python/)
+- [MNIST Classification using ANNs](Python/MNIST%20Classification%20with%20ANNs/) - Class classification and predictions of Fashion MNIST dataset using Artificial Neural Networks.
 - [PUBG Match Analysis](Python/PUBG%20Match%20Analysis/) - Small project where I applied some of my knowledge regarding data science pipeline on a big dataset of PUBG matches.
 - [Code Signal Questions](Python/Code%20Signal/) - Folder with solved questions from [Code Signal](https://app.codesignal.com).
 - [Data Cleaning Test](Python/Test) - A simple project to test how git works with ipynb files.
