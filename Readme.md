@@ -10,6 +10,7 @@ I am also skilled in Python 🐍, though I haven’t had many chances to use it 
 Anyhow, here I will be showcasing all my projects, little by little, so it's a work in progress 💪🏼. Feel free to explore what I got so far below:
 
 ## ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Python Projects](Python/)
+- [Streamlit Breast Cancer Predictor](Python/Streamlit%20Breast%20Cancer%20Predictor/) - A Streamlit-powered app for breast cancer prediction and data analysis using machine learning.
 - [MNIST Classification using ANNs](Python/MNIST%20Classification%20with%20ANNs/) - Class classification and predictions of Fashion MNIST dataset using Artificial Neural Networks.
 - [PUBG Match Analysis](Python/PUBG%20Match%20Analysis/) - Small project where I applied some of my knowledge regarding data science pipeline on a big dataset of PUBG matches.
 - [Code Signal Questions](Python/Code%20Signal/) - Folder with solved questions from [Code Signal](https://app.codesignal.com).
@@ -17,9 +18,9 @@ Anyhow, here I will be showcasing all my projects, little by little, so it's a w
 - *More soon!*
 
 ## ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) [SQL Projects](SQL/)
-- *Soon!*
+- *More soon!*
 
 ## ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) [Power Platform Projects](Power%20Platform/)
-- *Soon!*
+- *More soon!*
 
 [Go Back to Main GitHub Page](https://github.com/ivantravisany)
