@@ -2,9 +2,9 @@ import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, roc_curve, auc
-from data_preparation import load_and_prepare_data
-from model_training import grid_search_ann, train_and_evaluate_model
-from feature_selection import select_features
+from modules.data_preparation import load_and_prepare_data
+from modules.feature_selection import select_features
+from modules.model_training import grid_search_ann, train_and_evaluate_model
 import pandas as pd
 
 # App title
